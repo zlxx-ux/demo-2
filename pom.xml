@@ -23,12 +23,10 @@
         <module>spring-boot-study-jpa</module>
         <module>spring-boot-study-securing</module>
         <module>spring-boot-study-jwt</module>
-        <module>spring-boot-study-oauthdemo</module>
         <module>spring-boot-study-ehcache</module>
         <module>spring-boot-study-redis</module>
         <module>spring-boot-study-memcached</module>
         <module>spring-boot-study-quartz</module>
-        <module>spring-boot-study-quartzdb</module>
         <module>spring-boot-study-sendemail</module>
         <module>spring-boot-study-ftpclient</module>
         <module>spring-boot-study-httpclient</module>
